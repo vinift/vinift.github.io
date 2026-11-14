@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.vinift.traco",
+        "sha256_cert_fingerprints": ["8D:BC:DC:FE:BF:0D:0E:EC:B3:83:89:3B:C6:CD:F5:0A:78:3C:40:C2:33:D6:E4:16:85:1D:96:04:ED:FF:28:16"]
+      }
+    }]
